@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset 
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- صفحه اصلی -->
+  <url>
+    <loc>https://your-domain.com/</loc>
+    <priority>1.0</priority>
+    <changefreq>daily</changefreq>
+  </url>
+
+  <!-- لیست مانهوآها -->
+  <url>
+    <loc>https://your-domain.com/manhwas</loc>
+    <priority>0.9</priority>
+    <changefreq>daily</changefreq>
+  </url>
+
+  <!-- نمونه صفحه مانهوآ -->
+  <url>
+    <loc>https://your-domain.com/manhwa/Magic_Emperor</loc>
+    <priority>0.8</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+
+  <!-- نمونه صفحه ریدر -->
+  <url>
+    <loc>https://your-domain.com/reader/Magic_Emperor/1</loc>
+    <priority>0.7</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+
+</urlset>

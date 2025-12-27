@@ -1,0 +1,11 @@
+# اجازه به همهٔ خزنده‌ها برای ایندکس کل سایت
+User-agent: *
+Allow: /
+
+# مسیرهای حساس یا غیرضروری که نباید ایندکس بشن
+Disallow: /api/
+Disallow: /scanner/
+Disallow: /logs/
+
+# آدرس نقشهٔ سایت برای گوگل و موتورهای جستجو
+Sitemap: https://your-domain.com/sitemap.xml

@@ -1,0 +1,25 @@
+{
+  "name": "manhwahub",
+  "version": "1.0.0",
+  "description": "ManhwaHub - mobile-first manhwa reader",
+  "main": "backend/server.js",
+  "scripts": {
+    "start": "node backend/server.js",
+    "dev": "nodemon backend/server.js",
+    "frontend": "react-scripts start",
+    "build": "react-scripts build"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.0.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "jsonwebtoken": "^9.0.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.14.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.0"
+  }
+}

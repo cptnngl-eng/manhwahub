@@ -1,0 +1,29 @@
+{
+  "name": "ManhwaHub",
+  "short_name": "ManhwaHub",
+  "description": "مانهوا هاب - اپلیکیشن وب برای خواندن مانهوآ",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#111111",
+  "theme_color": "#ff3366",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icons/icon11.png",
+      "sizes": "853x1280",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "1024x1536",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/manhwalogo.png",
+      "sizes": "640x1138",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "splash_pages": null
+}
